@@ -1,0 +1,49 @@
+@media all and (max-width: 1000px) {
+    .container-card .card {
+        width: 50%;
+        margin: 10px 0;
+    }
+}
+  
+  /* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .container-card .card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    header .container {
+        display: block;
+        list-style: none;
+    }
+
+    h1, h2, h3, p {
+        font-size: 0.8em;
+    }
+
+    header {
+        height: 60px;
+    }
+
+    header .container .hkiri ul li{
+        font-size: 0.8em;
+        display: inline-block;
+        margin: 5px;
+        border-bottom: 1px solid white;
+        padding: 1px;
+    }
+
+    header .container .hkiri ul {
+        display: block;
+        padding-left: 0;
+    }
+
+    header .container .hkanan {
+        text-align: center;
+    }
+
+    header .container .hkiri {
+        text-align: center;
+        margin: auto;
+    }
+}
