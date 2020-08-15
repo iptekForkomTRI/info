@@ -58,6 +58,11 @@ const dataLomba = [
 
 const dataPelatihan = [
     {
+        link : "https://maedtratrainingpartner.com/",
+        gambar : "https://scontent.fpku2-1.fna.fbcdn.net/v/t1.0-9/p960x960/116798936_3869106559784688_7497642792939022885_o.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_eui2=AeGMqX_LBxqj6OHMhIjE4BahfF1Nj-x9U4d8XU2P7H1Th8AIZrve8a9l9Lw6TkERb_oeORQng7BKLy0mmLHMk8fs&_nc_ohc=zHhMb3lQ-IkAX-hInkL&_nc_ht=scontent.fpku2-1.fna&_nc_tp=6&oh=3e2d9ab981cb36fba51514f9afcc38ae&oe=5F5E8CE1",
+        judul : "Membangun Wide Area Network ( WAN )"
+    },
+    {
         link : "https://dilo.id/Event/Detail/1498",
         gambar : "https://minio.dilo.id/event/cc0b06a4-6693-4498-88b2-7522e1f8595e.png",
         judul : "Say Hello to Kotlin"
