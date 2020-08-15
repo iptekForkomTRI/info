@@ -22,7 +22,28 @@ const dataSeminar = [
         link : "https://www.instagram.com/p/CD3LzmNnYIK/",
         gambar : "https://instagram.fpku2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117376927_1224631081230021_3785803182273914555_n.jpg?_nc_ht=instagram.fpku2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=41pbj5wCMzAAX94cwNm&oh=64abf37e10b4a3f0db9e269a4253d070&oe=5F604311",
         judul : "Learn Google Analythics"
-    }
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1564",
+        gambar : "https://minio.dilo.id/event/0090fe5e-efc0-4f5b-990d-ad25aef2c4d7.jpeg",
+        judul : "Mentoring One-on-One About Building Startup"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1536",
+        gambar : "https://minio.dilo.id/event/51b6e5cf-6be7-4d9b-b753-7c9a2d267de3.png",
+        judul : "7 Strategi Konten Marketing Bikin Brandmu Laris"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1566",
+        gambar : "https://minio.dilo.id/event/77fc1cc3-2f7f-4bf7-919b-21952865d973.jpeg",
+        judul : "Mentoring One-on-One About Coding for Digital Product"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1565",
+        gambar : "https://minio.dilo.id/event/3c75155f-2e9b-4986-8eaf-542ad91460ad.jpeg",
+        judul : "Mentoring One-on-One About UI/UX Designer"
+    },
+    
 
 ];
 
@@ -60,5 +81,38 @@ const dataPelatihan = [
         link : "https://www.instagram.com/p/CD3uXlzjYTm/",
         gambar : "https://instagram.fpku2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117748278_1231020147233296_610732120123324224_n.jpg?_nc_ht=instagram.fpku2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=NyzZTjhaLHMAX9qEEeF&oh=53f8b281d355312bf594c262ce7459d6&oe=5F62A531",
         judul : "UX Research"
-    }
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1535",
+        gambar : "https://minio.dilo.id/event/7a2be876-dd0d-46f2-b572-b3ef28d74d36.JPG",
+        judul : "Build Android Apps Using Flutter"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1517",
+        gambar : "https://minio.dilo.id/event/6050e517-c4e0-42a1-a43a-fd08a08f86bf.png",
+        judul : "Beautify Your Web with Bootstrap 4"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1519",
+        gambar : "https://minio.dilo.id/event/081500cd-1d0e-4625-8d0c-622c09b25ad4.png",
+        judul : "Publish & Share Your Own Website with Github Pages"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1532",
+        gambar : "https://minio.dilo.id/event/e3aee7c4-a4a2-4397-aa70-42ece846b1be.png",
+        judul : "Pemrograman Web Go Dasar"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1468",
+        gambar : "https://minio.dilo.id/event/21feef0a-1533-407d-ad7d-9fa97304ef26.png",
+        judul : "Build Your First Project With React Native"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1549",
+        gambar : "https://minio.dilo.id/event/3b35e441-1564-45b5-8f4d-94ce3ec91988.png",
+        judul : "GitHub Repository"
+    },
+    
+    
+    
 ];
