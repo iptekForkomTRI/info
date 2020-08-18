@@ -19,11 +19,6 @@ const dataSeminar = [
         judul : "Discovering Cloud Solutions for Business Continuity"
     },
     {
-        link : "https://www.instagram.com/p/CD3LzmNnYIK/",
-        gambar : "https://instagram.fpku2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117376927_1224631081230021_3785803182273914555_n.jpg?_nc_ht=instagram.fpku2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=41pbj5wCMzAAX94cwNm&oh=64abf37e10b4a3f0db9e269a4253d070&oe=5F604311",
-        judul : "Learn Google Analythics"
-    },
-    {
         link : "https://dilo.id/Event/Detail/1564",
         gambar : "https://minio.dilo.id/event/0090fe5e-efc0-4f5b-990d-ad25aef2c4d7.jpeg",
         judul : "Mentoring One-on-One About Building Startup"
@@ -63,16 +58,6 @@ const dataPelatihan = [
         judul : "Membangun Wide Area Network ( WAN )"
     },
     {
-        link : "https://dilo.id/Event/Detail/1498",
-        gambar : "https://minio.dilo.id/event/cc0b06a4-6693-4498-88b2-7522e1f8595e.png",
-        judul : "Say Hello to Kotlin"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1441",
-        gambar : "https://minio.dilo.id/event/6901c220-c842-4bef-8ebf-4f2948e79b87.jpg",
-        judul : "FRONT END DEVELOPER - DESIGN IMPLEMENTATION"
-    },
-    {
         link : "https://readysetcode.id",
         gambar : "https://pbs.twimg.com/media/EfH_lopUMAARPsG?format=png&name=small",
         judul : "Ready, Set, Code!"
@@ -91,11 +76,6 @@ const dataPelatihan = [
         link : "https://dilo.id/Event/Detail/1535",
         gambar : "https://minio.dilo.id/event/7a2be876-dd0d-46f2-b572-b3ef28d74d36.JPG",
         judul : "Build Android Apps Using Flutter"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1517",
-        gambar : "https://minio.dilo.id/event/6050e517-c4e0-42a1-a43a-fd08a08f86bf.png",
-        judul : "Beautify Your Web with Bootstrap 4"
     },
     {
         link : "https://dilo.id/Event/Detail/1519",
