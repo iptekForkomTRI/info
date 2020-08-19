@@ -38,6 +38,46 @@ const dataSeminar = [
         gambar : "https://minio.dilo.id/event/3c75155f-2e9b-4986-8eaf-542ad91460ad.jpeg",
         judul : "Mentoring One-on-One About UI/UX Designer"
     },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFZSak1nPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-07-20_214030_event.jpg",
+        judul : "Image Processing and Machine Learning for Agriculture"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwRk5RPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-17_082246_event.jpg",
+        judul : "Membangun Mindset Programmer Handal Untuk Pelajar"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwSmVRPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-19_092044_event.jpg",
+        judul : "Bincang Komunikasi - Apakah Data Pribadi Kita Aman?"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwRk1RPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-14_132839_event.jpg",
+        judul : "Introduction to Artificial Intelligence"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwQmVBPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-18_163951_event.jpg",
+        judul : "Packaging Produk Dengan Adobe Illustrator"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwRmVnPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-13_120817_event.jpg",
+        judul : "IT dan AI Dalam Membangun Masyarakat Pedesaan"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwRk1BPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-14_131715_event.jpg",
+        judul : "Pendekatan Life Cycle Sustainable Assessment (LCSA) Dalam Industri IT dan AI di New Era"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwQmR3PT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-01_190829_event.jpg",
+        judul : "Merancang Web Landing Page Menggunakan Bootstrap 4"
+    },
     
 
 ];
@@ -61,6 +101,11 @@ const dataPelatihan = [
         link : "https://readysetcode.id",
         gambar : "https://pbs.twimg.com/media/EfH_lopUMAARPsG?format=png&name=small",
         judul : "Ready, Set, Code!"
+    },
+    {
+        link : "http://www.dilo.id/Event/Detail/1387",
+        gambar : "https://minio.dilo.id/event/d33b7173-7a37-4e96-b719-378dd4962233.jpg",
+        judul : "UI UX Bootcamp Batch2"
     },
     {
         link : "https://www.instagram.com/p/CD31LVlHAwW/",
