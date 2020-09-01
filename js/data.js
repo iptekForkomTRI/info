@@ -73,6 +73,26 @@ const dataSeminar = [
         gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_205438_event.jpg",
         judul : "Pentingnya Kesehatan Mental Dalam Dunia Kerja"
     },
+    {
+        link : "https://dilo.id/Event/Detail/1660",
+        gambar : "https://minio.dilo.id/event/f2bb77b8-99c0-4f50-9d06-a309512ebb5b.jpg",
+        judul : "Python for Machine Learning Future Ready Asean 2020"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1659",
+        gambar : "https://minio.dilo.id/event/ee9910df-0800-4740-a4bd-0119e05eae21.jpg",
+        judul : "Laravel Learning Path"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1661",
+        gambar : "https://minio.dilo.id/event/d181b9fb-d621-478a-bbb5-e187bfb23add.png",
+        judul : "Kemampuan Sosial Media Manager dalam Era Digital"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1662",
+        gambar : "https://minio.dilo.id/event/a3f33341-8274-44ac-b3a8-247cab1ecb42.jpg",
+        judul : "Know Your Life - Know Your Strenght"
+    },
 ];
 
 const dataLomba = [
@@ -175,5 +195,19 @@ const dataPelatihan = [
         gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-18_164243_event.jpg",
         judul : "Tutorial Neural Networks dengan GO Programming"
     },
-    
+    {
+        link : "https://dilo.id/Event/Detail/1657",
+        gambar : "https://minio.dilo.id/event/52c39158-afc5-4b5c-bbba-977331ff3bd2.png",
+        judul : "Workshop Design Thinking"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1658",
+        gambar : "https://minio.dilo.id/event/e04f4151-6c44-43da-a187-2f10f536dde8.png",
+        judul : "UX Research 101 : Foundational"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1387",
+        gambar : "https://minio.dilo.id/event/d33b7173-7a37-4e96-b719-378dd4962233.jpg",
+        judul : "UI UX Bootcamp Batch2"
+    },
 ];
