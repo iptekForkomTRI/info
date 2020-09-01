@@ -48,6 +48,31 @@ const dataSeminar = [
         gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_162338_event.jpg",
         judul : "Desain Merchandise Dengan Adobe Illustrator Untuk UMKM"
     },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVmVBPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_201253_event.jpg",
+        judul : "Memulai Menjadi Moderator Webinar"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwWmVRPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_174637_event.jpg",
+        judul : "Tutorial Mendeley Untuk Penulisan Ilmiah"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVmVnPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_205035_event.jpg",
+        judul : "Perancangan Konten Kreatif Untuk Poster Instagram"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVk13PT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_144928_event.jpg",
+        judul : "Komunikasi Cerdas Dan Berkarakter Dengan Multimedia"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVk1BPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_205438_event.jpg",
+        judul : "Pentingnya Kesehatan Mental Dalam Dunia Kerja"
+    },
 ];
 
 const dataLomba = [
@@ -105,6 +130,36 @@ const dataPelatihan = [
         link : "https://bisa.ai/tampil/event/detail/VFdwUk1nPT0",
         gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_152354_event.jpg",
         judul : "Belajar Struktur Data Dengan Python"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVk5BPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_145534_event.jpg",
+        judul : "Video Analytics: Deteksi Objek Pada Video Dengan RCNN"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVk5RPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_150627_event.jpg",
+        judul : "Matematika Untuk Machine Learning"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVmVRPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_203145_event.jpg",
+        judul : "Memulai Natural Language Processing"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwVk1nPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_175056_event.jpg",
+        judul : "Menjadi Graphic Designer Terampil Dengan Inkspace"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFdwSk1nPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-20_102308_event.jpg",
+        judul : "Master Class – Data Science Bagi Pemula"
+    },
+    {
+        link : "https://bisa.ai/tampil/event/detail/VFZSSk1nPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-18_164243_event.jpg",
+        judul : "Tutorial Neural Networks dengan GO Programming"
     },
     
 ];
