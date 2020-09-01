@@ -76,7 +76,21 @@ const dataSeminar = [
 ];
 
 const dataLomba = [
-    
+    {
+        link : "https://www.instagram.com/p/CEl9gmRhYD7/",
+        gambar : "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/118731142_179499423687950_4646945542490116055_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=U8VqELufTwwAX-bKHmR&oh=16324a13fa6d67ddb02f8058a8b54394&oe=5F7912E6",
+        judul : "BIST League 3.0"
+    },
+    {
+        link : "https://www.instagram.com/p/CEVwsAlhFXx/",
+        gambar : "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/118248169_3238039196324304_5694283842962682857_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=6sMzQE1O5ygAX_RQL5O&oh=b7f611e88d8391e025843baf88a39734&oe=5F786BD8",
+        judul : "Hack a Farm"
+    },
+    {
+        link : "https://www.instagram.com/p/CEjptosJayM/",
+        gambar : "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.95.903.903a/s640x640/118561196_234180057944176_3538551666988111987_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=zoPS8ACXb0QAX_lTgMC&oh=abbc2fd09a3b4616edd115368932dad3&oe=5F78741F",
+        judul : "Akselerasi Startup Mahasiswa Indonesia 2020"
+    },
     
 ];
 
