@@ -99,7 +99,9 @@ const dataSeminar = [
 
 const dataLomba = [
     {
-        
+        link : "https://www.instagram.com/p/CF1Ob5jJ7Mn/",
+        gambar : "https://instagram.fkno6-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/120358139_767724600683254_1673076820030021748_n.jpg?_nc_ht=instagram.fkno6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=xbK0c4kBO0YAX9bn-HA&oh=d750cd5180c77dd9421dc23d093eca0b&oe=5FA24C2B",
+        judul : "Informatics Competition Himpunan Mahasiswa Teknik Informatika Universitas Ahmad Dahlan"  
     },
     
     
