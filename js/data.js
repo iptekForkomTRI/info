@@ -9,90 +9,26 @@
 
 const dataSeminar = [
     {
-        link : "https://bisa.ai/tampil/event/detail/VFdwSmVBPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-18_130437_event.jpg",
-        judul : "Blockchain Concept, Research, and Implementation"
+        link : "https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FID-DevOps_36%3Ffbclid%3DIwAR11XA9wUanBgrKO5jzqvmTz9O7VPHlkQQ6o73nZLcVCAJ0A1pjwYGkqK-o&h=AT3ef4_7FUZOseE2_aOn78Vswy21c0u90iQyg9_XQXuh_x70r26IlpddvRmLrC486kv6Uu7xt7QLBo9ykmH-3xxs0ldZRXguzPPdKJyAue2lvAdF7lZdw5fsp5Wc&__tn__=-UK-R&c[0]=AT2MIREqa6QeF8lNGfZ66kDT2JzebgXAOvz924t5v-SQZe2p_Wgxi8g4fJlnRQMQrW6WiM0iSC5HxeVinQNYoNQtXhyMcNdUgBuRlEL-M5coTagLTFcJTrOv3JAyZmUyr2UorWrjcrdxnSj2uoqGiFmNMW2n6CzQY-L9CUf_NsJIhxoXWyyeVCbjfiwNSF2aStOfu1X4pnBprpZf9QQ4bRQDoYaHqA",
+        gambar : "https://scontent.fpku2-1.fna.fbcdn.net/v/t1.0-0/p180x540/120202948_3118894564887074_2668290746713861262_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_eui2=AeGe-jvK_AvO56efDVEaX3cZMQCJwQFoQ5cxAInBAWhDl7tfZOSW3XHC_tCtdQihY3YwQUyh7MRRVU4w4ksTNY3d&_nc_ohc=jmWh8u0QXzMAX_rGWda&_nc_ht=scontent.fpku2-1.fna&tp=6&oh=f4e077fa060719225209bce1365a89a0&oe=5FA03768",
+        judul : "DevOps Indonesia (ONLINE) Integrated CI/CD pipeline with Azure and AWS"
     },
     {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk1BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_184604_event.jpg",
-        judul : "Dasar-dasar Elektronika"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk13PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-26_181849_event.jpg",
-        judul : "Tutorial Mendesain Logo Untuk Brand"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk1BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_155008_event.jpg",
+        link : "https://tampil.id/event/detail/VFdwUk1BPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-10-04_152810_event.jpg",
         judul : "Tutorial Database MySQL untuk Enterprise Sistem"
     },
     {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk1RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-26_155823_event.jpg",
-        judul : "Mengelola Tim Programmer Pada Startup Digital"
+        link : "https://tampil.id/event/detail/VFhwTk1RPT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-25_213730_event.jpg",
+        judul : "Tutorial Dasar-Dasar Business Intelligence Dengan Python"
     },
     {
-        link : "https://bisa.ai/tampil/event/detail/VFdwSk13PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-20_192433_event.jpg",
-        judul : "Blockchain Research and Implementation"
+        link : "https://tampil.id/event/detail/VFdwak13PT0",
+        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-10-04_152851_event.jpg",
+        judul : "Basis Data  : Konsep dan Implementasi"
     },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk1RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_085537_event.jpg",
-        judul : "Mengenal Wakaf dan Fintech Indonesia"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk5RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_162338_event.jpg",
-        judul : "Desain Merchandise Dengan Adobe Illustrator Untuk UMKM"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVmVBPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_201253_event.jpg",
-        judul : "Memulai Menjadi Moderator Webinar"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwWmVRPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_174637_event.jpg",
-        judul : "Tutorial Mendeley Untuk Penulisan Ilmiah"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVmVnPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_205035_event.jpg",
-        judul : "Perancangan Konten Kreatif Untuk Poster Instagram"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVk13PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_144928_event.jpg",
-        judul : "Komunikasi Cerdas Dan Berkarakter Dengan Multimedia"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVk1BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_205438_event.jpg",
-        judul : "Pentingnya Kesehatan Mental Dalam Dunia Kerja"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1660",
-        gambar : "https://minio.dilo.id/event/f2bb77b8-99c0-4f50-9d06-a309512ebb5b.jpg",
-        judul : "Python for Machine Learning Future Ready Asean 2020"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1659",
-        gambar : "https://minio.dilo.id/event/ee9910df-0800-4740-a4bd-0119e05eae21.jpg",
-        judul : "Laravel Learning Path"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1661",
-        gambar : "https://minio.dilo.id/event/d181b9fb-d621-478a-bbb5-e187bfb23add.png",
-        judul : "Kemampuan Sosial Media Manager dalam Era Digital"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1662",
-        gambar : "https://minio.dilo.id/event/a3f33341-8274-44ac-b3a8-247cab1ecb42.jpg",
-        judul : "Know Your Life - Know Your Strenght"
-    },
+    
 ];
 
 const dataLomba = [
@@ -101,113 +37,15 @@ const dataLomba = [
         gambar : "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/118731142_179499423687950_4646945542490116055_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=U8VqELufTwwAX-bKHmR&oh=16324a13fa6d67ddb02f8058a8b54394&oe=5F7912E6",
         judul : "BIST League 3.0"
     },
-    {
-        link : "https://www.instagram.com/p/CEVwsAlhFXx/",
-        gambar : "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/118248169_3238039196324304_5694283842962682857_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=6sMzQE1O5ygAX_RQL5O&oh=b7f611e88d8391e025843baf88a39734&oe=5F786BD8",
-        judul : "Hack a Farm"
-    },
-    {
-        link : "https://www.instagram.com/p/CEjptosJayM/",
-        gambar : "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.95.903.903a/s640x640/118561196_234180057944176_3538551666988111987_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=zoPS8ACXb0QAX_lTgMC&oh=abbc2fd09a3b4616edd115368932dad3&oe=5F78741F",
-        judul : "Akselerasi Startup Mahasiswa Indonesia 2020"
-    },
+    
     
 ];
 
 const dataPelatihan = [
     {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk5RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_184148_event.jpg",
-        judul : "Tutorial Mockup XD"
+        link : "https://maedtratrainingpartner.com/posts/7271990275189912355?hl=id",
+        gambar : "https://lh3.googleusercontent.com/p/AF1QipO_Mf_c9SVEnduLvtqwqNDSJxhOCADuSX9Y4lE4=w600-h0",
+        judul : "Introduction of Mikrotik Routers"
     },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwSk1RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-20_141606_event.jpg",
-        judul : "Master Class – Excel Analytics"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUmR3PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-28_203107_event.jpg",
-        judul : "Tutorial Adobe Premier Pro Untuk Pemula"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk1nPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_140939_event.jpg",
-        judul : "Dasar-dasar NODEMCU ESP8266 Untuk Internet of Things"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwTk5BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-26_182259_event.jpg",
-        judul : "Memulai Cloud Computing : Installasi, Konfigurasi dan Security Dasar"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUmVRPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_134440_event.jpg",
-        judul : "Rekayasa Perangkat Lunak: Teori dan Praktis"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUmVnPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-30_141432_event.jpg",
-        judul : "Dasar-dasar Kriptografi"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk13PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_153156_event.jpg",
-        judul : "Editing Video Dengan Youtube Studio"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk5BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_160344_event.jpg",
-        judul : "Tutorial Konfigurasi Web Server untuk Production"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwUk1nPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_152354_event.jpg",
-        judul : "Belajar Struktur Data Dengan Python"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVk5BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_145534_event.jpg",
-        judul : "Video Analytics: Deteksi Objek Pada Video Dengan RCNN"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVk5RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_150627_event.jpg",
-        judul : "Matematika Untuk Machine Learning"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVmVRPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-31_203145_event.jpg",
-        judul : "Memulai Natural Language Processing"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwVk1nPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-01_175056_event.jpg",
-        judul : "Menjadi Graphic Designer Terampil Dengan Inkspace"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFdwSk1nPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-20_102308_event.jpg",
-        judul : "Master Class – Data Science Bagi Pemula"
-    },
-    {
-        link : "https://bisa.ai/tampil/event/detail/VFZSSk1nPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-08-18_164243_event.jpg",
-        judul : "Tutorial Neural Networks dengan GO Programming"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1657",
-        gambar : "https://minio.dilo.id/event/52c39158-afc5-4b5c-bbba-977331ff3bd2.png",
-        judul : "Workshop Design Thinking"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1658",
-        gambar : "https://minio.dilo.id/event/e04f4151-6c44-43da-a187-2f10f536dde8.png",
-        judul : "UX Research 101 : Foundational"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1387",
-        gambar : "https://minio.dilo.id/event/d33b7173-7a37-4e96-b719-378dd4962233.jpg",
-        judul : "UI UX Bootcamp Batch2"
-    },
+    
 ];
