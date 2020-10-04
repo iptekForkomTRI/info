@@ -118,5 +118,10 @@ const dataPelatihan = [
         gambar : "https://minio.dilo.id/event/a64babc0-a6d3-4011-b77d-c03cdf4f10d8.jpg",
         judul : "BELAJAR DASAR DESAIN LOGO"
     },
+    {
+        link : "https://kelaskita.com/lab127/kelas/lab127-networking-essentials/",
+        gambar : "https://kelaskita.com/media/images/2019/09/2019-09-09-18-56-24823075_logolab127-(1)png594.jpg",
+        judul : "LAB127 - Networking Essentials"
+    },
     
 ];
