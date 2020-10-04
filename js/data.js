@@ -28,14 +28,78 @@ const dataSeminar = [
         gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-10-04_152851_event.jpg",
         judul : "Basis Data  : Konsep dan Implementasi"
     },
+    {
+        link : "https://dilo.id/Event/Detail/1883",
+        gambar : "https://minio.dilo.id/event/972bed16-a258-453d-a76e-91eacce7604b.jpeg",
+        judul : "DILo Customer Validation Week 3 - Talking to User"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1937",
+        gambar : "https://minio.dilo.id/event/61399eb0-fdd4-4503-86b2-35fda292cbee.jpeg",
+        judul : "DILoTalks08 - YouTube Marketing"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1945",
+        gambar : "https://minio.dilo.id/event/ffbc6116-a0ee-40d3-a68f-49e06a3ad1de.png",
+        judul : "What Quality Assurance Do in Startup Industry"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1943",
+        gambar : "https://minio.dilo.id/event/a0f3947e-b3ef-4b15-a14c-083775860ee8.png",
+        judul : "THE POWER OF COPYWRITING & UXWRITING FOR YOUR STARTUP"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1939",
+        gambar : "https://minio.dilo.id/event/e3d0e8b8-001e-4d60-8408-a04ac23d0135.png",
+        judul : "Bootcamp SEO (Lets Optimize Your Search Website)"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1920",
+        gambar : "https://minio.dilo.id/event/980f55fb-24a8-4fc3-b2a1-39a1b2b25e46.jpg",
+        judul : "Kick Start Your Career As A UX Designer"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1897",
+        gambar : "https://minio.dilo.id/event/354a0e68-b79c-4663-8672-a7378d4d2dad.png",
+        judul : "Accounting for Startup"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1923",
+        gambar : "https://minio.dilo.id/event/90b38c2d-e825-49fe-b197-f30b84ed717e.png",
+        judul : "The Power of SCRUM Method for Startup Development"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1926",
+        gambar : "https://minio.dilo.id/event/1beb5d26-6fe1-4471-be2e-318547c33a7c.png",
+        judul : "Public Speaking for Business"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1898",
+        gambar : "https://minio.dilo.id/event/a4af65eb-6340-4f5b-9570-e5ea6a67f580.png",
+        judul : "Know Your Life Know Your Strength"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1931",
+        gambar : "https://minio.dilo.id/event/45de390c-c90b-4694-9142-78bc1536bc1e.png",
+        judul : "Digital Marketing Tips and Trick for Business"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1930",
+        gambar : "https://minio.dilo.id/event/23a0b90b-9190-4cb5-9390-598f02219f97.png",
+        judul : "IT Supply Chain For Startup 4.0"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1924",
+        gambar : "https://minio.dilo.id/event/11669cc3-cf33-45e9-ac5f-51aa7d550fd5.jpg",
+        judul : "TRANSFORMASI DIGITAL DAN PENGARUHNYA PADA BISNIS & SDM"
+    },
+    
     
 ];
 
 const dataLomba = [
     {
-        link : "https://www.instagram.com/p/CEl9gmRhYD7/",
-        gambar : "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/118731142_179499423687950_4646945542490116055_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=U8VqELufTwwAX-bKHmR&oh=16324a13fa6d67ddb02f8058a8b54394&oe=5F7912E6",
-        judul : "BIST League 3.0"
+        
     },
     
     
@@ -46,6 +110,11 @@ const dataPelatihan = [
         link : "https://maedtratrainingpartner.com/posts/7271990275189912355?hl=id",
         gambar : "https://lh3.googleusercontent.com/p/AF1QipO_Mf_c9SVEnduLvtqwqNDSJxhOCADuSX9Y4lE4=w600-h0",
         judul : "Introduction of Mikrotik Routers"
+    },
+    {
+        link : "https://dilo.id/Event/Detail/1897",
+        gambar : "https://minio.dilo.id/event/a64babc0-a6d3-4011-b77d-c03cdf4f10d8.jpg",
+        judul : "BELAJAR DASAR DESAIN LOGO"
     },
     
 ];
