@@ -9,56 +9,6 @@
 
 const dataSeminar = [
     {
-        link : "https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FID-DevOps_36%3Ffbclid%3DIwAR11XA9wUanBgrKO5jzqvmTz9O7VPHlkQQ6o73nZLcVCAJ0A1pjwYGkqK-o&h=AT3ef4_7FUZOseE2_aOn78Vswy21c0u90iQyg9_XQXuh_x70r26IlpddvRmLrC486kv6Uu7xt7QLBo9ykmH-3xxs0ldZRXguzPPdKJyAue2lvAdF7lZdw5fsp5Wc&__tn__=-UK-R&c[0]=AT2MIREqa6QeF8lNGfZ66kDT2JzebgXAOvz924t5v-SQZe2p_Wgxi8g4fJlnRQMQrW6WiM0iSC5HxeVinQNYoNQtXhyMcNdUgBuRlEL-M5coTagLTFcJTrOv3JAyZmUyr2UorWrjcrdxnSj2uoqGiFmNMW2n6CzQY-L9CUf_NsJIhxoXWyyeVCbjfiwNSF2aStOfu1X4pnBprpZf9QQ4bRQDoYaHqA",
-        gambar : "https://scontent.fpku2-1.fna.fbcdn.net/v/t1.0-0/p180x540/120202948_3118894564887074_2668290746713861262_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_eui2=AeGe-jvK_AvO56efDVEaX3cZMQCJwQFoQ5cxAInBAWhDl7tfZOSW3XHC_tCtdQihY3YwQUyh7MRRVU4w4ksTNY3d&_nc_ohc=jmWh8u0QXzMAX_rGWda&_nc_ht=scontent.fpku2-1.fna&tp=6&oh=f4e077fa060719225209bce1365a89a0&oe=5FA03768",
-        judul : "DevOps Indonesia (ONLINE) Integrated CI/CD pipeline with Azure and AWS"
-    },
-    {
-        link : "https://tampil.id/event/detail/VFdwUk1BPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-10-04_152810_event.jpg",
-        judul : "Tutorial Database MySQL untuk Enterprise Sistem"
-    },
-    {
-        link : "https://tampil.id/event/detail/VFhwTk1RPT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-09-25_213730_event.jpg",
-        judul : "Tutorial Dasar-Dasar Business Intelligence Dengan Python"
-    },
-    {
-        link : "https://tampil.id/event/detail/VFdwak13PT0",
-        gambar : "https://gate.bisaai.id/bisa_ai_vcon/event/media/2020-10-04_152851_event.jpg",
-        judul : "Basis Data  : Konsep dan Implementasi"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1883",
-        gambar : "https://minio.dilo.id/event/972bed16-a258-453d-a76e-91eacce7604b.jpeg",
-        judul : "DILo Customer Validation Week 3 - Talking to User"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1937",
-        gambar : "https://minio.dilo.id/event/61399eb0-fdd4-4503-86b2-35fda292cbee.jpeg",
-        judul : "DILoTalks08 - YouTube Marketing"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1945",
-        gambar : "https://minio.dilo.id/event/ffbc6116-a0ee-40d3-a68f-49e06a3ad1de.png",
-        judul : "What Quality Assurance Do in Startup Industry"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1943",
-        gambar : "https://minio.dilo.id/event/a0f3947e-b3ef-4b15-a14c-083775860ee8.png",
-        judul : "THE POWER OF COPYWRITING & UXWRITING FOR YOUR STARTUP"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1939",
-        gambar : "https://minio.dilo.id/event/e3d0e8b8-001e-4d60-8408-a04ac23d0135.png",
-        judul : "Bootcamp SEO (Lets Optimize Your Search Website)"
-    },
-    {
-        link : "https://dilo.id/Event/Detail/1920",
-        gambar : "https://minio.dilo.id/event/980f55fb-24a8-4fc3-b2a1-39a1b2b25e46.jpg",
-        judul : "Kick Start Your Career As A UX Designer"
-    },
-    {
         link : "https://dilo.id/Event/Detail/1897",
         gambar : "https://minio.dilo.id/event/354a0e68-b79c-4663-8672-a7378d4d2dad.png",
         judul : "Accounting for Startup"
@@ -108,16 +58,16 @@ const dataLomba = [
         gambar : "https://careers.shopee.co.id/ndsc/images/hero-image-2020.png",
         judul : "National Data Science Challenge 2020"
     },
+    {
+        link : "https://www.openstack.id/2020/10/08/open-infrastructure-cloud-native-day-indonesia-2020/?fbclid=IwAR317fkTQFORjdJHHWccJpSQQB7kBOhXflk2-4yI6769u1sXaZOcwIm_puc",
+        gambar : "https://www.openstack.id/wp-content/uploads/2020/10/register-oicndi20-10102020.jpg",
+        judul : "Open Infrastructure & Cloud Native Day Indonesia 2020"
+    },
     
     
 ];
 
 const dataPelatihan = [
-    {
-        link : "https://maedtratrainingpartner.com/posts/7271990275189912355?hl=id",
-        gambar : "https://lh3.googleusercontent.com/p/AF1QipO_Mf_c9SVEnduLvtqwqNDSJxhOCADuSX9Y4lE4=w600-h0",
-        judul : "Introduction of Mikrotik Routers"
-    },
     {
         link : "https://dilo.id/Event/Detail/1897",
         gambar : "https://minio.dilo.id/event/a64babc0-a6d3-4011-b77d-c03cdf4f10d8.jpg",
@@ -127,6 +77,11 @@ const dataPelatihan = [
         link : "https://kelaskita.com/lab127/kelas/lab127-networking-essentials/",
         gambar : "https://kelaskita.com/media/images/2019/09/2019-09-09-18-56-24823075_logolab127-(1)png594.jpg",
         judul : "LAB127 - Networking Essentials"
+    },
+    {
+        link : "https://docs.google.com/forms/d/e/1FAIpQLSc5-YQx51cVnNyNHHu5rzEyGdnxHxSa2QbT9uLXgZWk-IB2qg/viewform",
+        gambar : "https://scontent.fjog4-1.fna.fbcdn.net/v/t1.0-0/p526x296/120040149_179615006948062_3714860996794592193_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=H-5x6QJ1mqkAX82NDMy&_nc_oc=AQn4dyBlm2LppF1i-1pBnKWvkC-NUpQN4S19nfgLIWv6BWl9szRO5cnstEWoh5jyLG8&_nc_ht=scontent.fjog4-1.fna&tp=6&oh=bbb81ec4c584a5a609be90df3bbfaeee&oe=5FA9D76B",
+        judul : "Data Science Training"
     },
     
 ];
