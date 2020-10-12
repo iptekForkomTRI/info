@@ -65,7 +65,7 @@ const dataLomba = [
     },
     {
         link : "https://youtube.com/MikrotikIndonesiaCitraweb",
-        gambar : " photo_2020-10-12_21-24-21.jpg",
+        gambar : "info/jsphoto_2020-10-12_21-24-21.jpg",
         judul : "MUM INDONESIA 2020"
     },
    
