@@ -63,7 +63,12 @@ const dataLomba = [
         gambar : "https://www.openstack.id/wp-content/uploads/2020/10/register-oicndi20-10102020.jpg",
         judul : "Open Infrastructure & Cloud Native Day Indonesia 2020"
     },
-    
+    {
+        link : "https://youtube.com/MikrotikIndonesiaCitraweb",
+        gambar : " photo_2020-10-12_21-24-21.jpg",
+        judul : "MUM INDONESIA 2020"
+    },
+   
     
 ];
 
