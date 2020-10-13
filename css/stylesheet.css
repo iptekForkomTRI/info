@@ -165,3 +165,14 @@ footer a {
 footer a:hover {
     opacity: 1;
 }
+
+.bankSoal{
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+    display: inline-block;
+    background-color: yellow;
+    line-height: 25px;
+    border-radius: 10px;
+    width: 110px;
+}
