@@ -166,13 +166,4 @@ footer a:hover {
     opacity: 1;
 }
 
-.pembuka .bankSoal a{
-    text-decoration: none;
-    font-weight: bold;
-    color: red;
-    display: inline-block;
-    background-color: yellow;
-    line-height: 25px;
-    border-radius: 10px;
-    width: 110px;
-}
+
